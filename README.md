@@ -11,10 +11,10 @@ Una vez cada 6 meses se realiza un inventario de los objetos para comprobar cual
 
 Este problema deriva en:
 - Disminución de la cantidad de objetos que se pueden prestar a lo largo del tiempo, lo que empeora el servicio a los alumnos.
-- Gastos innecesarios por la obligacion de recomprar los objetos extraviados o robados para mantener el servicio de prestamos lo más completo posible.
-
-
+- Gastos innecesarios por la obligación de recomprar los objetos extraviados o robados para mantener el servicio de prestamos lo más completo posible.
 
 ## Objetivos.
 - Objetivos principales.
-    1. El principal objetivo de este proyecto es el de desrrollar una aplicacion para la administracion de l
+    1. El principal objetivo de este proyecto es el de desrrollar una aplicacion para la administración de los prestamos realizados, brindando las funcionalidades necesarias para la emision, la busqueda y la devolucion de los mismos.
+    2. Brindar las funcionalidades necesarias para el registro, la busqueda y modificación de los objetos, asi como tambien facilitar las tareas de inventariado y seguimiento de estos.
+    3. Brindar las funcionalidades necesarias para el registro, la busqueda y modificacion de las personas que interactuan con la aplicación, siendo estos los **Secretarios**, que emiten los prestamos y los **Alumnos** y **Profesores** que reciben los prestamos emitidos.
